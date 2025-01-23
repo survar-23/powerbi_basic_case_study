@@ -1,2 +1,3 @@
 # powerbi_basic_case_study
-The aim of this case study is to effectively manage multiple tables by extracting data from various sources and establishing and managing relationships between them using DAX syntax."
+
+The goal of this case study is to efficiently manage multiple tables within Power BI by extracting data from diverse sources. It focuses on establishing and managing relationships between these tables using DAX (Data Analysis Expressions) to enable dynamic reporting and data analysis.
